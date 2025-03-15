@@ -1,5 +1,5 @@
-#PromptPix
-#Generative AI Project using Gemini 1.5 Pro & Gemini 1.5 Flash
+# PromptPix
+# Generative AI Project using Gemini 1.5 Pro & Gemini 1.5 Flash
 
 # Overview
 This project is a Generative AI-based application that leverages **Gemini 1.5 Pro** and **Gemini 1.5 Flash** to generate text and analyze images based on user prompts. Users can input text-based queries or upload images, and the model provides meaningful responses accordingly.
@@ -74,8 +74,5 @@ This project is open-source and available under the **MIT License**.
 # Contact
 For questions or support, reach out via aayushyadav1210@gmail.com or open an issue in the repository.
 
----
-
 Happy Coding! 🚀
-````
 
