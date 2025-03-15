@@ -1,5 +1,5 @@
-# PromptPix
-# Generative AI Project using Gemini 1.5 Pro & Gemini 1.5 Flash
+PromptPix
+Generative AI Project using Gemini 1.5 Pro & Gemini 1.5 Flash
 
 ````markdown
 # Overview
