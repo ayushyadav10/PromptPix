@@ -72,7 +72,4 @@ streamlit run vission.py
 This project is open-source and available under the **MIT License**.
 
 # Contact
-For questions or support, reach out via aayushyadav1210@gmail.com or open an issue in the repository.
-
-Happy Coding! 🚀
-
+For questions or support, reach out via aayusyadav1210@gmail.com or open an issue in the repository.
